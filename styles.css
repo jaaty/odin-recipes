@@ -1,0 +1,14 @@
+* {
+    font-family: 'Helvetica', sans-serif;
+    background-color: beige;
+    color: blue;
+}
+
+h1 {
+    background-color: blue;
+    color: white;
+}
+
+h3 {
+    outline: auto;
+}
